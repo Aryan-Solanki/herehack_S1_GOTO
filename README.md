@@ -18,16 +18,6 @@ GoTo is a navigation application exclusively designed for the commuters and trav
 <br />Say yes to single tap solution for all the Emergency Services feature developed by our Core Team.
 
 
-
-## App Screens
-
-  RECOMMENDATION                |        CATEGORY SEARCH         |       EMERGENCY SERVICES
-:-------------------------:|:-------------------------:|:-------------------------:
-![](https://firebasestorage.googleapis.com/v0/b/orevhealth-499c9.appspot.com/o/here%203.png?alt=media&token=6112eee6-b5ae-479b-a97d-1abb882569da)|![](https://firebasestorage.googleapis.com/v0/b/orevhealth-499c9.appspot.com/o/here%202.jpeg?alt=media&token=430a74b1-1132-481e-82f9-355f8b396ae5)|![](https://firebasestorage.googleapis.com/v0/b/orevhealth-499c9.appspot.com/o/here%203.png?alt=media&token=6112eee6-b5ae-479b-a97d-1abb882569da)
-
-
-and many more..
-
 ## Tech Stack Used
 
 Here's SDK, Dart Programming Language,
