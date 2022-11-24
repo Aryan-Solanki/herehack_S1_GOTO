@@ -1,7 +1,7 @@
 # GoTo
 
 
-## GoTo App [![GitHub stars](https://img.shields.io/github/stars/AkshatRastogi-1nC0re/InnoAppChallenge?style=social)](https://github.com/login?return_to=%2FAkshatRastogi-1nC0re%InnoAppChallenge) ![GitHub forks](https://img.shields.io/github/forks/AkshatRastogi-1nC0re/InnoAppChallenge?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/AkshatRastogi-1nC0re/InnoAppChallenge) ![Dart CI](https://github.com/TheAlphamerc/flutter_ecommerce_app/workflows/Dart%20CI/badge.svg) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com//AkshatRastogi-1nC0re/InnoAppChallenge) 
+## GoTo App [![GitHub stars](https://img.shields.io/github/stars/Aryan-Solanki/herehack_S1_GOTO?style=social)](https://github.com/login?return_to=%2FAryan-Solanki%herehack_S1_GOTO) ![GitHub forks](https://img.shields.io/github/forks/Aryan-Solanki/herehack_S1_GOTO?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/Aryan-Solanki-1nC0re/herehack_S1_GOTO) ![Dart CI](https://github.com/TheAlphamerc/flutter_ecommerce_app/workflows/Dart%20CI/badge.svg) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com//Aryan-Solanki/herehack_S1_GOTO) 
 
 GoTo is a navigation application exclusively designed for the commuters and travellers. This application would be a blessing for people who love to travel and explore new places.
 
