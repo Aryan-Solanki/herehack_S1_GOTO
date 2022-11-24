@@ -49,4 +49,4 @@ Email: [E20CSE051@bennett.edu.in](mailto:E20CSE051@bennett.edu.in)
 
 ## Visitors Count
 
-<img align="left" src = "https://profile-counter.glitch.me/InnoAppChallenge/count.svg" alt ="Loading">
+<img align="left" src = "https://profile-counter.glitch.me/herehack_S1_GOTO/count.svg" alt ="Loading">
