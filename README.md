@@ -7,15 +7,15 @@ GoTo is a navigation application exclusively designed for the commuters and trav
 
 
 ## PROBLEM STATEMENT
-<br />1->Have you ever felt completely blank after arriving at your favourite destination ?
-<br />2->Have you ever felt the need for someone to assist you in exploring a completely new location ?
-<br />3->Would you be using emergency service while travelling to an unknown city ?
+<br />Have you ever felt completely blank after arriving at your favourite destination ?
+<br />Have you ever felt the need for someone to assist you in exploring a completely new location ?
+<br />Would you be using emergency service while travelling to an unknown city ?
 
 
 ## SOLUTION
-<br />1->We are working on a system that will allow you to find your POIs.
-<br />2->Introducing a recommendation system to aid you in a whole new location.
-<br />3->Say yes to single tap solution for all the Emergency Services feature developed by our Core Team.
+<br />We are working on a system that will allow you to find your POIs.
+<br />Introducing a recommendation system to aid you in a whole new location.
+<br />Say yes to single tap solution for all the Emergency Services feature developed by our Core Team.
 
 
 
